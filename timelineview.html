@@ -1,0 +1,235 @@
+<!--
+Author URL: http://bikramkawan.com.np
+Email : bikramkawan@gmail.com
+Version: 18.03.2016
+-->
+<!DOCTYPE html>
+<html>
+<head>
+<title>Neural Network Prototype for time series Modeling</title>
+<!-- for-mobile-apps -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Erudition Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+		function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- //for-mobile-apps -->
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+<!-- js -->
+ <script src="js/library/jquery.min.js"></script>
+  <script src="js/library/jquery-ui.js"></script>
+  <script src="js/library/vis.js"></script>
+
+
+<!-- Javascript for User Interface -->
+
+  
+  <script src="js/paper/timelinesetupnew.js"></script>
+    <link href="CSS/vis.css" rel="stylesheet" type="text/css" />
+<!-- //js -->
+<link href='//fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,900,800' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Audiowide' rel='stylesheet' type='text/css'>
+</head>
+	
+<body>
+<!-- header -->
+	<div class="header">
+		<div class="container">
+			<div class="header-top">
+				<div class="header-top-left">
+									<p>Neural Network Prototype</p>
+				</div>
+				<div class="header-top-left1">
+					 <!-- start search-->
+						<div class="search-box">
+							
+						</div>
+						<!-- search-scripts -->
+					
+						<!-- //search-scripts -->
+				</div>
+				<div class="header-top-right">
+					
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+		</div>
+	</div>
+	<div class="header-logo">
+		<div class="container">
+			<div class="header-nav">
+				<nav class="navbar navbar-default">
+					<!-- Brand and toggle get grouped for better mobile display -->
+					<div class="navbar-header">
+					  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					  </button>
+						<div class="logo">
+										<a class="navbar-brand" href="index.html">NTNU</a>
+						</div>
+					</div>
+
+					<!-- Collect the nav links, forms, and other content for toggling -->
+					<div class="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
+					 <ul class="nav navbar-nav">
+						<li class="hvr-bounce-to-bottom active"><a href="index.html">Home</a></li>
+						<li class="hvr-bounce-to-bottom"><a href="datacleaning.html">Data Cleaning</a></li>
+						<li class="hvr-bounce-to-bottom"><a href="correlation.html">Correlation</a></li>
+						<li class="hvr-bounce-to-bottom"><a href="timelineview.html">Time Line View</a></li>
+						<li class="hvr-bounce-to-bottom"><a href="neuralnetmodel.html">Neural Network Modeling</a></li>
+						<li class="hvr-bounce-to-bottom"><a href="simulationvessel.html">Vessel Simulation</a></li>
+					  </ul>
+					</div><!-- /.navbar-collapse -->
+				</nav>
+			</div>
+		</div>
+	</div>
+<!-- //header -->
+<!-- single -->
+	<div class="single">
+	<div class="container">
+		<h3>Time Line View of Entire Data</h3>
+	
+		<div class="clearfix"> </div>
+		<div class="grid_3 grid_5">
+		
+				<div class="well">
+					Time line view is the idea to show the overview of data along the entire time frame.User can filter the entire date by providing the constraints in the table below.In order to view time line please prodived the range of each parameter.
+					For example : If you wan to constraint heading with in the range of 100 and 300. The input will be as below.The first argument should be lowest value and second as highest value.
+					<br>
+					Example for input format of Heading = [100,360] 
+					<br>
+					If you donot provide any constraint the plot will show entire data in single time frame.
+					<br>
+				
+					Now to start the filling the arguments in the table  below. Once you finished Press the Filter Button at the end of table.
+
+				</div>
+
+		<!-- 		End of First Block -->
+
+				<center>
+	<!-- Table --> 	
+
+	<div class="bs-docs-example">		
+			<table class="table table-striped" border="1">
+					<tr><th rowspan="1">Parameters</th><th>Input Filters</th><th>Range Values of Dataset</th></tr>
+					<tr><td rowspan="1">Surge Velocity [m/s]</td><td><input type="text" id="Surge" class="textbox1" /></td><td id="t0">Surge Ranges</td></tr>
+					<tr><td rowspan="1">Sway Velocity  [m/s]</td><td><input type="text" id="Sway" class="textbox1" /></td><td id="t1">Sway Ranges</td></tr>
+					<tr><td rowspan="1">Yaw Veloctiy [deg/s]</td><td><input type="text" id="Yawvelocity" class="textbox1" /></td><td id="t2">Heading Ranges</td></tr>
+					<tr><td rowspan="1">Roll Velocity [deg/s]</td><td><input type="text" id="Rollvelocity" class="textbox1" /></td><td id="t3">Roll Velocity</td></tr>
+					<tr><td rowspan="1">Pitch Velocity [deg/s]</td><td><input type="text" id="Pitchvelocity" class="textbox1" /></td><td id="t4">Pitch Velocity</td></tr>
+					<tr><td rowspan="1">Position East[m]</td><td><input type="text" id="Positioneast" class="textbox1" /></td><td id="t5">Position East</td></tr>
+					<tr><td rowspan="1">Position North[m]</td><td><input type="text" id="Positionnorth" class="textbox1" /></td><td id="t6">Position North</td></tr>
+					<tr><td rowspan="1">Heading[deg]</td><td><input type="text" id="Heading" class="textbox1" /></td><td id="t7">Heading</td></tr>
+					<tr><td rowspan="1">Roll[deg]</td><td><input type="text" id="Roll" class="textbox1" /></td><td id="t8">Roll</td></tr>
+					<tr><td rowspan="1">Pitch [deg]</td><td><input type="text" id="Pitch" class="textbox1" /></td><td id="t9">Pitch</td></tr>
+
+					<tr><td colspan="3" align="center"><h1><button id="timebutton" class="label label-primary"> Filter </button></h1></td></tr>
+
+
+			</table>
+
+	</div>
+<!-- END Table -->
+					<div id="wait" style="width: 251px; height: 105px; border: 2px solid black; top: 70%; left: 50%; margin-bottom:5px; display:none;">
+					<img src='img/loading.gif' width="200" height="100"/><br>Matlab is Working Please Wait..
+					</div>
+				</center>	
+
+	<!-- 	Second Block 	 -->
+			
+			
+				<div class="clearfix"> </div>
+				<br>
+				<div class="well">
+			Matlab Will run background after you start constraint filtering.The Result is stored in JSON files. Now Click on Display Time Button to see the time line view of filtered data.
+				</div>
+
+<!-- End of second Blocks	 -->
+<!-- 		display Time line blocks -->
+		<center>
+			<h1>
+				<button id="plottimeline" class="label label-primary">Display Time Line</button>
+			</h1>
+		</center>
+<!-- End of display Time line block -->
+
+	
+<!-- 	End of Boxes. -->
+
+
+<!-- 	Time line  Area Div -->
+		<div class="tags-cate">
+		
+				<div id="visualization"></div>
+					<div id="loading">Timeline will Load Here once you are done ...</div>
+		
+			<div class="clearfix"> </div>
+		</div>
+
+<!-- End Timeline Area Div	 -->	
+	
+				<div class="well">
+			Note: To see the effect of modification, Please refresh the page and choose your modification.
+				</div>
+
+				<div class="well">
+			For Training and Testing purpose for Neural Network You can provide the block of data which you have filtered. Simply input the name of the block in text field for training and Testing in the below Textboxes which will be later used in Neural Network Modeling phase.
+			For example: Training = 1 (Without any special character. Only Numbers are allowed).
+			If you donot provide any specific data set then Matlab will divide the entire data into randomly by default.
+				</div>
+				<center>
+				<h3>
+				Training  Set: <input type="text" id="trainingdatarange" class="textbox1" />  
+				<br>	<br>
+				Testing Set: <input type="text" id="testingdatarange" class="textbox1" /> 
+				</h3>
+				<br>
+				<h1>
+				<button id="btn" class="label label-primary"> Submit </button>
+
+				</h1>
+				</center>
+
+						<div class="col-md-6" style="float: left;">
+					<ul class="pagination pagination-lg">
+						<li ><a href="correlation.html"><i class="fa fa-angle-left">«</i></a></li>
+							
+						<li><a href="correlation.html"><i class="fa fa-angle-right">Previous</i></a></li>
+					</ul>
+			
+				</div>
+
+
+			<div class="col-md-6" style="float: right;">
+					<ul class="pagination pagination-lg">
+												
+						<li><a href="neuralnetmodel.html"><i class="fa fa-angle-right">Next</i></a></li>
+						<li><a href="neuralnetmodel.html"><i class="fa fa-angle-right">»</i></a></li>
+					</ul>
+			
+				</div>
+
+
+	</div>
+	</div>
+<!-- //single -->
+<!-- footer -->
+	<div class="footer-copy">
+		<p>© 2016 Edition. | Application Made and Design by <a href="http://bikramkawan.com.np"> Bikram Kawan </a></p>
+		<br>
+			<p> <a href="http://blog.hials.no/bigdata/"> Product of Big Data Lab </a>, NTNU, Aalesund</p>
+		
+	</div>
+<!-- //footer -->
+<!-- for bootstrap working -->
+		<script src="js/bootstrap.js"> </script>
+<!-- //for bootstrap working -->
+</body>
+</html>

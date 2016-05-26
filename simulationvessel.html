@@ -1,0 +1,240 @@
+<!--
+Author URL: http://bikramkawan.com.np
+Email : bikramkawan@gmail.com
+Version: 18.03.2016
+-->
+<!DOCTYPE html>
+<html>
+<head>
+<title>Neural Network Prototype for time series Modeling</title>
+<!-- for-mobile-apps -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Erudition Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+		function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- //for-mobile-apps -->
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+<!-- js -->
+  <script src="js/library/jquery.min.js"></script>
+  <script src="js/library/jquery-ui.js"></script>
+
+
+
+<!-- Javascript for User Interface -->
+
+
+
+     
+<!-- //js -->
+<link href='//fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,900,800' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Audiowide' rel='stylesheet' type='text/css'>
+</head>
+	
+<body>
+<!-- header -->
+	<div class="header">
+		<div class="container">
+			<div class="header-top">
+				<div class="header-top-left">
+							<p>Neural Network Prototype</p>
+				</div>
+				<div class="header-top-left1">
+					 <!-- start search-->
+						<div class="search-box">
+						
+						</div>
+						<!-- search-scripts -->
+						
+						<!-- //search-scripts -->
+				</div>
+				<div class="header-top-right">
+					
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+		</div>
+	</div>
+	<div class="header-logo">
+		<div class="container">
+			<div class="header-nav">
+				<nav class="navbar navbar-default">
+					<!-- Brand and toggle get grouped for better mobile display -->
+					<div class="navbar-header">
+					  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					  </button>
+						<div class="logo">
+										<a class="navbar-brand" href="index.html">NTNU</a>
+						</div>
+					</div>
+
+					<!-- Collect the nav links, forms, and other content for toggling -->
+					<div class="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
+					 <ul class="nav navbar-nav">
+						<li class="hvr-bounce-to-bottom active"><a href="index.html">Home</a></li>
+						<li class="hvr-bounce-to-bottom"><a href="datacleaning.html">Data Cleaning</a></li>
+						<li class="hvr-bounce-to-bottom"><a href="correlation.html">Correlation</a></li>
+						<li class="hvr-bounce-to-bottom"><a href="timelineview.html">Time Line View</a></li>
+						<li class="hvr-bounce-to-bottom"><a href="neuralnetmodel.html">Neural Network Modeling</a></li>
+						<li class="hvr-bounce-to-bottom"><a href="simulationvessel.html">Vessel Simulation</a></li>
+					  </ul>
+					</div><!-- /.navbar-collapse -->
+				</nav>
+			</div>
+		</div>
+	</div>
+<!-- //header -->
+<!-- single -->
+	<div class="single">
+	<div class="container">
+		<h3>Neural Network  Modeling</h3>
+	
+		<div class="clearfix"> </div>
+		<div class="grid_3 grid_5">
+		
+				<div class="well">
+					The result obtained from Neural Network step stored the result of Actual Trajectory and Predicted Trajectory. The blue line in the simulation is the Actual Trajectory.The red line is the prdicted trajectory from the Algorithm. You can start making the simlation of vessel by moving the slider or you can just press play button to start simulation by itself. You can stop the simulation by pressing the stop button.You can move your mouse by pressing on the canvas area to make better overiew.
+				</div>
+
+		<!-- 		End of First Block -->
+	<div>
+			This is place for simulation.
+
+				<div id="webgloutput">
+				</div>	<br>
+						<div class="slidertextleft"> 
+						<h3>
+						Move the slider to see the effect.
+						</h3>
+						</div> 
+						<br>
+						<input id="defaultSlider" type="range" min="0" max="2000" value="10" width="100" height="50">
+			      		<div class="slidertext"></div>
+			      		<br>
+						<h1>
+						<button id="playbutton" class="label label-primary">Play Simulation</button>	
+						<button id="stopbutton" class="label label-primary">Stop Simulation</button>	
+						<!-- <img id="playbutton"   src="img/play.png" style="width: 100px; height: 100px;">
+			 -->			
+<!-- 			 <img id="stopbutton" src="img/stop.png" style="width: 85px; height: 81px; margin-top: 0px; border-top-width: 0px; padding-top: 0px; margin-bottom: 8px;">
+					 -->
+			 			</h1>
+
+
+	
+
+		<div id ="Stats-output">
+		</div>
+
+	</div>
+
+
+
+
+
+<!-- End of display Time line block -->
+
+	</div>
+<!-- 	End of Boxes. -->
+
+
+<!-- 	Time line  Area Div -->
+		<div class="tags-cate">
+		<center>
+			<div id="chartarea">
+				
+			</div>
+		</center>
+		
+		</div>
+
+<!-- End Timeline Area Div	 -->	
+	
+				<div class="well">
+			Note: To see the effect of modification, Please refresh the page and choose your modification.
+				</div>
+
+			<div class="col-md-6" style="float: left;">
+					<ul class="pagination pagination-lg">
+						<li ><a href="neuralnetmodel.html"><i class="fa fa-angle-left">«</i></a></li>
+							
+						<li><a href="neuralnetmodel.html"><i class="fa fa-angle-right">Previous</i></a></li>
+					</ul>
+			
+				</div>
+
+
+			<div class="col-md-6" style="float: right;">
+					<ul class="pagination pagination-lg">
+					
+							
+						<li><a href="#"><i class="fa fa-angle-right">Finished</i></a></li>
+						<li class="disabled"><a href="#"><i class="fa fa-angle-left">»</i></a></li>
+					</ul>
+			
+				</div>
+
+
+	</div>
+	</div>
+<!-- //single -->
+<!-- footer -->
+	<div class="footer-copy">
+		<p>© 2016 Edition. | Application Made and Design by <a href="http://bikramkawan.com.np"> Bikram Kawan </a></p>
+		<br>
+		<p> <a href="http://blog.hials.no/bigdata/" style="none"> Product of Big Data Lab </a>, NTNU, Aalesund</p>
+		
+	</div>
+<!-- //footer -->
+<!-- for bootstrap working -->
+		<script src="js/bootstrap.js"> </script>
+<!-- //for bootstrap working -->
+<script >
+
+ 
+$(document).ready(function(){
+$(function(){
+$('.slider-arrow').click(function(){
+     var anchor = this;
+    var removeClass = "show";
+    var addClass = "hide";
+    var diff = "-=300";
+    if($(anchor).hasClass("hide")){
+        diff = "+=300";
+        removeClass = "hide";
+        addClass="show";
+    }
+    $( " .panel" ).animate({
+      left: diff
+      }, 700, function() {
+        // Animation complete.
+          $(anchor).html('&laquo;').removeClass(removeClass).addClass(addClass);
+      });     
+   });   
+});
+});
+</script>
+
+  <script src="js/threejs/three.js"></script>
+  <script src="js/threejs/OrbitControls.js"></script>
+  <script src="js/threejs/Mirror.js"></script>
+  <script src="js/threejs/WaterShader.js"></script>
+  <script src="js/threejs/OBJLoader.js"></script>
+  <script src="js/threejs/Detector.js"></script>
+  <script src="js/threejs/stats.min.js"></script>
+  <script  src="js/threejs/dat.gui.js"></script>
+  <script src="js/threejs/DDSLoader.js"></script>
+  <script src="js/threejs/MTLLoader.js"></script>
+  <script src="js/threejs/OBJMTLLoader.js"></script>
+  <script src="js/threejs/ColladaLoader.js"></script>
+  <script src="js/threejs/GeometryUtils.js"></script>
+  <script src="js/threejs/KeyboardState.js"></script>
+  <script src="js/paper/webgl.js"></script>
+</body>
+</html>

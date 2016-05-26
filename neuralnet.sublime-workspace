@@ -1,0 +1,1223 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Co",
+				"Correlation"
+			],
+			[
+				"cor",
+				"corrdata"
+			],
+			[
+				"co",
+				"correlation"
+			],
+			[
+				"data",
+				"datacleaning"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"d",
+				"data2"
+			],
+			[
+				"lo",
+				"loaded"
+			],
+			[
+				"dat",
+				"data1"
+			],
+			[
+				"fil",
+				"filter"
+			],
+			[
+				"su",
+				"Surge"
+			],
+			[
+				"i",
+				"item1"
+			],
+			[
+				"tem",
+				"temp1"
+			],
+			[
+				"a",
+				"arraydata"
+			],
+			[
+				"tim",
+				"timelinejsondata"
+			],
+			[
+				"min",
+				"minvalues"
+			],
+			[
+				"ma",
+				"minmaxvalues"
+			],
+			[
+				"js",
+				"jsonobj"
+			],
+			[
+				"jso",
+				"jsonminmax"
+			],
+			[
+				"n",
+				"neuralnetresult"
+			],
+			[
+				"se",
+				"selectedValues"
+			],
+			[
+				"ch",
+				"chkindex"
+			],
+			[
+				"corry",
+				"corryid"
+			],
+			[
+				"Rva",
+				"Rval1"
+			],
+			[
+				"Plot",
+				"plotdatay1"
+			],
+			[
+				"Rval",
+				"Rval1"
+			],
+			[
+				"plo",
+				"plotdatay1"
+			],
+			[
+				"t",
+				"tmx"
+			],
+			[
+				"R",
+				"Rval0"
+			],
+			[
+				"Pva",
+				"Pval"
+			],
+			[
+				"y",
+				"yourArray"
+			],
+			[
+				"p",
+				"push"
+			],
+			[
+				"hea",
+				"headindex"
+			],
+			[
+				"x",
+				"xval"
+			],
+			[
+				"ti",
+				"timeseries"
+			],
+			[
+				"s",
+				"str"
+			],
+			[
+				"c",
+				"cleaningid"
+			],
+			[
+				"rea",
+				"readyout"
+			],
+			[
+				"read",
+				"readyout1"
+			],
+			[
+				"tmp",
+				"tmpscript"
+			],
+			[
+				"plot",
+				"plot1"
+			],
+			[
+				"he",
+				"hello"
+			],
+			[
+				"ani",
+				"animationset"
+			],
+			[
+				"my",
+				"myFunction"
+			],
+			[
+				"animat",
+				"animationset"
+			],
+			[
+				"shipco",
+				"shipcordx"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"de",
+				"defaultSlider"
+			],
+			[
+				"ge",
+				"Geometry"
+			],
+			[
+				"Pi",
+				"PI"
+			],
+			[
+				"shipc",
+				"shipcord"
+			],
+			[
+				"shipcor",
+				"shipcordx"
+			],
+			[
+				"pi",
+				"PI"
+			],
+			[
+				"tm",
+				"tmpxpos"
+			],
+			[
+				"e",
+				"exit"
+			],
+			[
+				"ro",
+				"rotation"
+			],
+			[
+				"r",
+				"rpmmin"
+			],
+			[
+				"ship",
+				"shipdata"
+			],
+			[
+				"Par",
+				"parse"
+			],
+			[
+				"vi",
+				"view"
+			],
+			[
+				"wh",
+				"where"
+			],
+			[
+				"ne",
+				"neededData"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"traj",
+				"trajectory"
+			],
+			[
+				"tra",
+				"trajectory"
+			],
+			[
+				"obj",
+				"object"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"Po",
+				"Position_y"
+			],
+			[
+				"Pos",
+				"Position_X"
+			],
+			[
+				"v",
+				"vertices"
+			],
+			[
+				"sc",
+				"scene"
+			],
+			[
+				"z",
+				"zcord"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"long",
+				"longitude"
+			],
+			[
+				"to",
+				"todate1"
+			],
+			[
+				"sp",
+				"speed1"
+			],
+			[
+				"thi",
+				"thisvalue"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"mov",
+				"movetonnsetup"
+			],
+			[
+				"time",
+				"timeline"
+			],
+			[
+				"web",
+				"webgloutput"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"nn",
+				"nninputs1"
+			],
+			[
+				"if",
+				"iframe"
+			],
+			[
+				"gr",
+				"group1"
+			],
+			[
+				"pos",
+				"posy2"
+			],
+			[
+				"posx",
+				"posx2"
+			],
+			[
+				"rp",
+				"rpmmax"
+			],
+			[
+				"rpm",
+				"rpmmin"
+			],
+			[
+				"timd",
+				"timedur"
+			],
+			[
+				"head",
+				"headmax"
+			],
+			[
+				"id",
+				"id1"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"en",
+				"encode"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"right",
+				"rightCount"
+			],
+			[
+				"TMP",
+				"tmpendcount"
+			],
+			[
+				"ENd",
+				"EndCOunt"
+			],
+			[
+				"arr",
+				"array	$… = array (…)"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"st",
+				"strStart"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"date",
+				"datetime2"
+			],
+			[
+				"da",
+				"datelog"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"and",
+				"AND"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"we",
+				"webgloutput"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"ca",
+				"canvas"
+			],
+			[
+				"myca",
+				"mycan"
+			],
+			[
+				"the",
+				"theCanvas"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"val",
+				"val2"
+			],
+			[
+				"S",
+				"SelBranch1"
+			],
+			[
+				"hid",
+				"hidneu"
+			],
+			[
+				"coun",
+				"countar"
+			],
+			[
+				"name",
+				"names"
+			],
+			[
+				"l",
+				"lengthrow"
+			],
+			[
+				"Date",
+				"datetag"
+			],
+			[
+				"Ran",
+				"random"
+			],
+			[
+				"splin",
+				"spline1"
+			],
+			[
+				"cos",
+				"console"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/paper/datacleaning.js",
+			"settings":
+			{
+				"buffer_size": 2806,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/paper/correlationdata.js",
+			"settings":
+			{
+				"buffer_size": 7997,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/paper/webgl-nosimulation.js",
+			"settings":
+			{
+				"buffer_size": 6745,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/bikramkawan/Desktop/backup_2016-04-04-1730_Within_and_Beyond_1d16787e8b0b-db 3",
+			"settings":
+			{
+				"buffer_size": 7048841,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/paper/plotnnresult.js",
+			"settings":
+			{
+				"buffer_size": 3531,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "correlation.html",
+			"settings":
+			{
+				"buffer_size": 9091,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"last_filter": "THRE",
+		"selected_items":
+		[
+			[
+				"THRE",
+				"Project: Refresh Folders"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/NeuralNet",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/NeuralNet/js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/NeuralNet/js/paper",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/NeuralNet/Matlab",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/NeuralNet/Matlab/timeline"
+	],
+	"file_history":
+	[
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/NeuralNet/js/paper/dummycorr.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/NeuralNet/Matlab/timeline/generatetimeline.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/NeuralNet/js/paper/correlationdata.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/NeuralNet/js/paper/datacleaning.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/NeuralNet/js/paper/googlechart.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/NeuralNet/js/paper/neuralnetmodeling.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/NeuralNet/js/paper/plotnnresult.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/NeuralNet/js/paper/plotwholedata.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/NeuralNet/js/paper/slider.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/NeuralNet/js/paper/timelinesetupnew.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/NeuralNet/js/paper/webgl.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/NeuralNet/js/bootstrap.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/NeuralNet/Matlab/correlation/generatecorrdata.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/NeuralNet/js/paper/webgl-nosimulation.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/NeuralNet/js/paper/timeline.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/NeuralNet/timelineview.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/NeuralNet/simulationvessel.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/NeuralNet/neuralnetmodel.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/NeuralNet/fileupload.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/NeuralNet/datacleaning.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/NeuralNet/correlation.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/NeuralNet/index.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/NeuralNet/upload.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Matlab/correlation/generatecorrdata.php",
+		"/Users/bikramkawan/Desktop/Matlab/datacleaning/generatedatacleaning.php",
+		"/Users/bikramkawan/Desktop/Matlab/correlation/generatecorrdata.php",
+		"/Users/bikramkawan/Desktop/Matlab/timeline/generatetimeline.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Demo/js/paper/webgl-nosimulation.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Demo/css/bootstrap.css",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Demo/css/style.css",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Demo/simlulation.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Demo/firstscene.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Demo/neuralindex.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/learning-threejs-master/chapter-01/02-first-scene.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Prototype/simlulation.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Demo/js/paper/webgl.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/learning-threejs-master/chapter-01/firstscene.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Matlab/timeline/trainingandtestidjson.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Matlab/timeline/generatetimeline.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/vis/war/TimelineDemo1.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/js/paper/timelinetest.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/timelinesetup.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/js/paper/timelinesetupnew.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/vis/examples/timeline/basicUsage.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Matlab/generatetimelinedata.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Matlab/generatetimeline.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/js/paper/neuralnetmodeling.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/simlulation.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/js/paper/webgl.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/CSS/style.css",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/js/paper/correlationdata.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/js/paper/datacleaning.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/js/library/vis.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/vis/dist/vis.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/ajaxhelper/timeline.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Matlab/randomtime_vesselnew.txt",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Matlab/timelinetestdata.json",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/datacleaning.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Matlab/generatedatacleaning.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/neuralnetmodeling.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/correlation.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/js/paper/plotnnresult.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Matlab/generateneuralmodel.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Matlab/neuraljsonObj.json",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Matlab/PHPfiles/datacleaning.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Matlab/corrdata.json",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/js/paper/neuralsetup.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/demo.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/Matlab/jsonlab/README.txt",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Matlab/generatecorrdata.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Matlab/datacleaning.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Matlab/heading.json",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/ajaxhelper/datacleaning.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Temp/javatest/hello.java",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/Matlab/testdate.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/upload.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Temp/Fangdemo/webgl_prototype.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Temp/Fangdemo/webgl_prototype (1).html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Temp/Fangdemo/webgl.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/js/paper/webgl.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/feb22.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Temp/ZoomExample.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/ajaxhelper/timeline.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Temp/multichartd3.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/ajaxhelper/animation.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/ajaxhelper/trajectoryoutput.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/CSS/style.css",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/demo.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/js/paper/slider.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/ajaxhelper/nnresultplot.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/js/paper/plotnnresult.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/js/paper/hideshowdiv.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/ajaxhelper/trajectoryinput.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/trajtest.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/stemkoski.github.com/Three.js/Dashed-Lines.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/googlechart.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/js/paper/googlechart.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/Backup feb 18/js/paper/googlechart.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/ajaxhelper/googlechart.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/multidatabak.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/panel.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/ship/Trajectorytest.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/ship/trajectory.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/ajaxhelper/plotwholedata.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/ajaxhelper/trajectory.php",
+		"/Users/bikramkawan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/VesselTrajectory.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/js/Trajectory.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/ship/webgl_prototype.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/sliders/index.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/learning-threejs-master/chapter-04/09-line-material.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/sliders/assets/js/slider-default.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/ship/demo.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/js/paper/plotwholedata.js",
+		"/Users/bikramkawan/Dropbox/Public/Thesis/demo.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/tmpselect.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/js/plotwholedata.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/plotwholedata.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Unity/git/testjson.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Unity/git/datatmp.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Unity/git/plotwholedata.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/js/paper/neuralsetup.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/vis/timeinsertauto.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/js/paper/timeline.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/js/googlechart.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/neuralsetup.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/js/webgl.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/js/neuralsetup.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"earthquake",
+			"selectbox",
+			"controls",
+			"0",
+			"flexslider",
+			"trainingandtestidjson",
+			"fetchid",
+			".php",
+			"20px",
+			"document",
+			".vis-item-content",
+			"div.vis-item-content",
+			"vis\n",
+			"vis-item-content\n",
+			"newStart",
+			"items",
+			"movetonnsetup",
+			"tmpi",
+			"timedur",
+			"2013-11-04",
+			"2016-02-01",
+			"dataclea",
+			"visualization",
+			"proceed to",
+			"parse",
+			"corrxid",
+			"index_corelation",
+			"corrxid",
+			"Swa",
+			"plot",
+			"movetotimeline",
+			"timeline",
+			"view",
+			"path",
+			"spline1",
+			"clicked_id",
+			"controls1",
+			"controls",
+			"controls1.",
+			"controls1.Frequency",
+			"controls1",
+			"shipdata",
+			"defaul",
+			"axis",
+			"ship.rotatio",
+			"ship.rotation.y",
+			"slider",
+			"shipcordy",
+			"slider",
+			"axis",
+			"show plot",
+			"wholedata",
+			"plot raw",
+			".dae",
+			"id",
+			"spline",
+			"performance",
+			"xcord",
+			"lon",
+			"chart",
+			"cord",
+			".php",
+			"dd",
+			"boat",
+			"boatData",
+			"position",
+			"push",
+			"Traje",
+			"positions",
+			"position2",
+			"result",
+			"current",
+			"obj",
+			"ship.position.x",
+			"lon",
+			"ship.position",
+			"lon",
+			"chart",
+			"wwhole",
+			"timeline",
+			"speed",
+			"slider",
+			"wholedata",
+			"nnset",
+			"timeline",
+			"buttonste",
+			"button",
+			"upload",
+			"nnsetup",
+			"movetonn",
+			"select-style",
+			"butto",
+			"csv",
+			"upload",
+			"tf",
+			"#fromdate",
+			"fromdate",
+			"timeplot",
+			"slide",
+			"plotwhole",
+			"plot",
+			"timeline",
+			"timeplot",
+			"timeline",
+			"graph",
+			"display",
+			".button",
+			"upload",
+			"nnset",
+			"move",
+			"cleaning",
+			"time",
+			"timeplot",
+			"google",
+			"movedata",
+			"upload",
+			"wov",
+			"upload",
+			".php",
+			"traj",
+			"trajectory",
+			"body",
+			"boday",
+			"init",
+			"body",
+			"stats",
+			".php",
+			"ajax"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"01-Nov-2013",
+			"2013-11-04",
+			"corval_Y",
+			"corrindex_X",
+			"corrvalue_y",
+			"#fromdate2",
+			"fromdate2",
+			"Textures",
+			"ship",
+			"object",
+			"dae",
+			"exitsgateways",
+			"accessiblenodes",
+			"checkIfElem_exist",
+			"bot_find_clearcell",
+			"bot_direction_tocell",
+			"x_direction",
+			"y_direction",
+			"calculatedistance_btwntwoposition",
+			"closestDirty_cellposition",
+			"dirtyBoard_cellspositions",
+			"get_cell_char",
+			"check_dirtycell",
+			"CLEAR_CELL",
+			"CLEAN",
+			"DIRTY",
+			"Board_cellname",
+			"Board_blockname",
+			"Position_Cordinates",
+			"Direction",
+			"get_boardlayout",
+			"get_position_cordinates",
+			"boardinput",
+			"position",
+			"botmove_step",
+			"tobot_posy",
+			"tobot_posx",
+			"prince_pos",
+			"bot_pos",
+			"prince_ypos",
+			"prince_xpos",
+			"bot_ypos",
+			"bot_xpos",
+			"directionbetween_bot_towardsprince",
+			"find_botandprincess_position",
+			"find_bot_and_princess_position",
+			"Position_Cordinates",
+			"field_matrix",
+			"bot_toprincess_direction",
+			"bottoprincessdirection",
+			"y_cordinate",
+			"x_cordinate",
+			"arena",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/paper/datacleaning.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2806,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1620,
+								1620
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 996.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/paper/correlationdata.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7997,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1735,
+								1735
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1021.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/paper/webgl-nosimulation.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6745,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4904,
+								3947
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1965.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/bikramkawan/Desktop/backup_2016-04-04-1730_Within_and_Beyond_1d16787e8b0b-db 3",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7048841,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1417167,
+								1417167
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 219512.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "js/paper/plotnnresult.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3531,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 410.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "correlation.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9091,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1297,
+								1245
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "neuralnet.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 266.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

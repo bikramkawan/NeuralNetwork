@@ -1,0 +1,1187 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"d",
+				"data2"
+			],
+			[
+				"lo",
+				"loaded"
+			],
+			[
+				"dat",
+				"data1"
+			],
+			[
+				"fil",
+				"filter"
+			],
+			[
+				"su",
+				"Surge"
+			],
+			[
+				"i",
+				"item1"
+			],
+			[
+				"tem",
+				"temp1"
+			],
+			[
+				"a",
+				"arraydata"
+			],
+			[
+				"tim",
+				"timelinejsondata"
+			],
+			[
+				"data",
+				"data2"
+			],
+			[
+				"min",
+				"minvalues"
+			],
+			[
+				"ma",
+				"minmaxvalues"
+			],
+			[
+				"js",
+				"jsonobj"
+			],
+			[
+				"jso",
+				"jsonminmax"
+			],
+			[
+				"n",
+				"neuralnetresult"
+			],
+			[
+				"se",
+				"selectedValues"
+			],
+			[
+				"ch",
+				"chkindex"
+			],
+			[
+				"corry",
+				"corryid"
+			],
+			[
+				"Rva",
+				"Rval1"
+			],
+			[
+				"Plot",
+				"plotdatay1"
+			],
+			[
+				"Rval",
+				"Rval1"
+			],
+			[
+				"plo",
+				"plotdatay1"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"t",
+				"tmx"
+			],
+			[
+				"cor",
+				"corrxid"
+			],
+			[
+				"R",
+				"Rval0"
+			],
+			[
+				"Pva",
+				"Pval"
+			],
+			[
+				"y",
+				"yourArray"
+			],
+			[
+				"p",
+				"push"
+			],
+			[
+				"hea",
+				"headindex"
+			],
+			[
+				"x",
+				"xval"
+			],
+			[
+				"ti",
+				"timeseries"
+			],
+			[
+				"s",
+				"str"
+			],
+			[
+				"c",
+				"cleaningid"
+			],
+			[
+				"rea",
+				"readyout"
+			],
+			[
+				"read",
+				"readyout1"
+			],
+			[
+				"tmp",
+				"tmpscript"
+			],
+			[
+				"plot",
+				"plot1"
+			],
+			[
+				"he",
+				"hello"
+			],
+			[
+				"ani",
+				"animationset"
+			],
+			[
+				"my",
+				"myFunction"
+			],
+			[
+				"animat",
+				"animationset"
+			],
+			[
+				"shipco",
+				"shipcordx"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"de",
+				"defaultSlider"
+			],
+			[
+				"ge",
+				"Geometry"
+			],
+			[
+				"Pi",
+				"PI"
+			],
+			[
+				"shipc",
+				"shipcord"
+			],
+			[
+				"shipcor",
+				"shipcordx"
+			],
+			[
+				"pi",
+				"PI"
+			],
+			[
+				"tm",
+				"tmpxpos"
+			],
+			[
+				"e",
+				"exit"
+			],
+			[
+				"ro",
+				"rotation"
+			],
+			[
+				"r",
+				"rpmmin"
+			],
+			[
+				"ship",
+				"shipdata"
+			],
+			[
+				"Par",
+				"parse"
+			],
+			[
+				"vi",
+				"view"
+			],
+			[
+				"wh",
+				"where"
+			],
+			[
+				"ne",
+				"neededData"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"traj",
+				"trajectory"
+			],
+			[
+				"tra",
+				"trajectory"
+			],
+			[
+				"obj",
+				"object"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"Po",
+				"Position_y"
+			],
+			[
+				"Pos",
+				"Position_X"
+			],
+			[
+				"v",
+				"vertices"
+			],
+			[
+				"sc",
+				"scene"
+			],
+			[
+				"z",
+				"zcord"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"long",
+				"longitude"
+			],
+			[
+				"to",
+				"todate1"
+			],
+			[
+				"sp",
+				"speed1"
+			],
+			[
+				"thi",
+				"thisvalue"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"mov",
+				"movetonnsetup"
+			],
+			[
+				"time",
+				"timeline"
+			],
+			[
+				"web",
+				"webgloutput"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"nn",
+				"nninputs1"
+			],
+			[
+				"if",
+				"iframe"
+			],
+			[
+				"gr",
+				"group1"
+			],
+			[
+				"pos",
+				"posy2"
+			],
+			[
+				"posx",
+				"posx2"
+			],
+			[
+				"rp",
+				"rpmmax"
+			],
+			[
+				"h",
+				"headmax"
+			],
+			[
+				"rpm",
+				"rpmmin"
+			],
+			[
+				"timd",
+				"timedur"
+			],
+			[
+				"head",
+				"headmax"
+			],
+			[
+				"id",
+				"id1"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"en",
+				"encode"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"right",
+				"rightCount"
+			],
+			[
+				"TMP",
+				"tmpendcount"
+			],
+			[
+				"ENd",
+				"EndCOunt"
+			],
+			[
+				"arr",
+				"array	$… = array (…)"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"st",
+				"strStart"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"date",
+				"datetime2"
+			],
+			[
+				"da",
+				"datelog"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"and",
+				"AND"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"we",
+				"webgloutput"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"ca",
+				"canvas"
+			],
+			[
+				"myca",
+				"mycan"
+			],
+			[
+				"the",
+				"theCanvas"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"val",
+				"val2"
+			],
+			[
+				"S",
+				"SelBranch1"
+			],
+			[
+				"hid",
+				"hidneu"
+			],
+			[
+				"coun",
+				"countar"
+			],
+			[
+				"name",
+				"names"
+			],
+			[
+				"l",
+				"lengthrow"
+			],
+			[
+				"Date",
+				"datetag"
+			],
+			[
+				"Ran",
+				"random"
+			],
+			[
+				"splin",
+				"spline1"
+			],
+			[
+				"cos",
+				"console"
+			],
+			[
+				"ob",
+				"object"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/bikramkawan/Dropbox/Hials/Mamp/learning-threejs-master/chapter-01/02-first-scene.html",
+			"settings":
+			{
+				"buffer_size": 499,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<!--\nAuthor: W3layouts\nAuthor URL: http://w3layouts.com\nLicense: Creative Commons Attribution 3.0 Unported\nLicense URL: http://creativecommons.org/licenses/by/3.0/\n-->\n<!DOCTYPE html>\n<html>\n<head>\n<title>Erudition a Corporate Business Category Flat Bootstrap Responsive Website Template | Home :: w3layouts</title>\n<!-- for-mobile-apps -->\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n<meta name=\"keywords\" content=\"Erudition Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, \nSmartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design\" />\n<script type=\"application/x-javascript\"> addEventListener(\"load\", function() { setTimeout(hideURLbar, 0); }, false);\n		function hideURLbar(){ window.scrollTo(0,1); } </script>\n<!-- //for-mobile-apps -->\n<link href=\"css/bootstrap.css\" rel=\"stylesheet\" type=\"text/css\" media=\"all\" />\n<link href=\"css/style.css\" rel=\"stylesheet\" type=\"text/css\" media=\"all\" />\n<!-- js -->\n<script src=\"js/jquery-1.11.1.min.js\"></script>\n<!-- //js -->\n\n\n<link href='//fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,900,800' rel='stylesheet' type='text/css'>\n<link href='//fonts.googleapis.com/css?family=Audiowide' rel='stylesheet' type='text/css'>\n</head>\n	\n<body>\n<!-- header -->\n	<div class=\"header\">\n		<div class=\"container\">\n			<div class=\"header-top\">\n				<div class=\"header-top-left\">\n					<p>Duis aute irure dolor in reprehenderit eu fugiat.</p>\n				</div>\n				<div class=\"header-top-left1\">\n					 <!-- start search-->\n						<div class=\"search-box\">\n							<div id=\"sb-search\" class=\"sb-search\">\n								<form>\n									<input class=\"sb-search-input\" placeholder=\"Enter your search term...\" type=\"search\" name=\"search\" id=\"search\">\n									<input class=\"sb-search-submit\" type=\"submit\" value=\"\">\n									<span class=\"sb-icon-search\"> </span>\n								</form>\n							</div>\n						</div>\n						<!-- search-scripts -->\n						<script src=\"js/classie.js\"></script>\n						<script src=\"js/uisearch.js\"></script>\n							<script>\n								new UISearch( document.getElementById( 'sb-search' ) );\n							</script>\n						<!-- //search-scripts -->\n				</div>\n				<div class=\"header-top-right\">\n					<p>Contact Us <span><i class=\"glyphicon glyphicon-earphone\" aria-hidden=\"true\"></i>+0978 789 000</span></p>\n				</div>\n				<div class=\"clearfix\"> </div>\n			</div>\n		</div>\n	</div>\n	<div class=\"header-logo\">\n		<div class=\"container\">\n			<div class=\"header-nav\">\n				<nav class=\"navbar navbar-default\">\n					<!-- Brand and toggle get grouped for better mobile display -->\n					<div class=\"navbar-header\">\n					  <button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#bs-example-navbar-collapse-1\">\n						<span class=\"sr-only\">Toggle navigation</span>\n						<span class=\"icon-bar\"></span>\n						<span class=\"icon-bar\"></span>\n						<span class=\"icon-bar\"></span>\n					  </button>\n						<div class=\"logo\">\n							<a class=\"navbar-brand\" href=\"index.html\">Erudition <span>Robotics Innovation Center</span></a>\n						</div>\n					</div>\n\n					<!-- Collect the nav links, forms, and other content for toggling -->\n					<div class=\"collapse navbar-collapse nav-wil\" id=\"bs-example-navbar-collapse-1\">\n					 <ul class=\"nav navbar-nav\">\n						<li class=\"hvr-bounce-to-bottom active\"><a href=\"index.html\">Home</a></li>\n						<li class=\"hvr-bounce-to-bottom\"><a href=\"services.html\">Services</a></li>\n						<li class=\"hvr-bounce-to-bottom\"><a href=\"gallery.html\">Gallery</a></li>\n						<li class=\"hvr-bounce-to-bottom\"><a href=\"codes.html\">Codes</a></li>\n						<li class=\"hvr-bounce-to-bottom\"><a href=\"blog.html\">Blog</a></li>\n						<li class=\"hvr-bounce-to-bottom\"><a href=\"contact.html\">Contact Us</a></li>\n					  </ul>\n					</div><!-- /.navbar-collapse -->\n				</nav>\n			</div>\n		</div>\n	</div>\n<!-- //header -->\n\n <div id=\"Stats-output\"> </div>\n<!-- banner -->\n	<div class=\"banner\">\n\n		\n\n			<div class=\"container\">\n			<section class=\"slider\">\n				<div class=\"flexslider\">\n					\n\n					<ul class=\"slides\">\n						<li>\n							<div class=\"banner-info\">\n							<div id =\"webgloutput\"> fffffffff</div>	fffffff\n								<h1>Lorem ipsum dolor sit amet</h1>\n								<p>Bikram kkkkptate \n								velit esse cillum dolore eu fugiat nulla pariatur.</p>\n							</div>\n						</li>\n						<li>\n							<div class=\"banner-info\">\n								<h1>Lorem ipsum dolor sit amet</h1>\n								<p>Duis aute irure dolor in reprehenderit in voluptate \n								velit esse cillum dolore eu fugiat nulla pariatur.</p>\n							</div>\n						</li>\n						<li>\n							<div class=\"banner-info\">\n								<h1>Lorem ipsum dolor sit amet</h1>\n								<p>Duis aute irure dolor in reprehenderit in voluptate \n								velit esse cillum dolore eu fugiat nulla pariatur.</p>\n							</div>\n						</li>\n					</ul>\n				</div>\n			</section>\n				<!--FlexSlider-->\n						<link rel=\"stylesheet\" href=\"css/flexslider.css\" type=\"text/css\" media=\"screen\" />\n					Excepteur sint occaecat cupidatat non proident, sunt in \n					\n				<!--End-slider-script-->\n			</div>\n	\n	</div>\n<!-- //banner -->\n<!-- banner-bottom -->\n	<div class=\"banner-bottom\">\n		<div class=\"container\">\n			<h3>Welcome To Our Robotic Center !</h3>\n			<p class=\"velit\">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>\n			<div class=\"banner-bottom-grids\">\n				<div class=\"col-md-4 banner-bottom-grid\">\n					<h4>voluptate velit esse cillum</h4>\n					<p>Excepteur sint occaecat cupidatat non proident, sunt in \n						culpa qui officia deserunt.</p>\n					<div class=\"more\">\n						<a href=\"single.html\" class=\"hvr-bounce-to-bottom\">Read More</a>\n					</div>\n				</div>\n				<div class=\"col-md-4 banner-bottom-grid\">\n					<h4>voluptate velit esse cillum</h4>\n					<p>Excepteur sint occaecat cupidatat non proident, sunt in \n						culpa qui officia deserunt.Temporibus autem quibusdam et aut officiis \n						debitis aut rerum necessitatibus saepe eveniet ut et voluptates \n						repudiandae sint et molestiae non recusandae.</p>\n				</div>\n				<div class=\"col-md-4 banner-bottom-grid\">\n					<h2><span>(010)</span> 805 1234</h2>\n					<p>USA -Newyork, 086 Diamond E Street , <span>Washington ,6703.</span><a href=\"mailto:info@example.com\">@example.com</a></p>\n				</div>\n				<div class=\"clearfix\"> </div>\n			</div>\n			<div class=\"banner-bottom-gd\">\n				<div class=\"col-md-4 banner-bottom-gid\">\n					<div class=\"col-xs-3 banner-bottom-gdl-left\">\n						<i class=\"glyphicon glyphicon-education\" aria-hidden=\"true\"></i>\n					</div>\n					<div class=\"col-xs-9 banner-bottom-gdl\">\n						<p><span>100+</span> WorldWide Campuses</p>\n					</div>\n					<div class=\"clearfix\"> </div>\n				</div>\n				<div class=\"col-md-4 banner-bottom-gid\">\n					<div class=\"col-xs-3 banner-bottom-gdl-left\">\n						<i class=\"glyphicon glyphicon-user\" aria-hidden=\"true\"></i>\n					</div>\n					<div class=\"col-xs-9 banner-bottom-gdl\">\n						<p><span>1000+</span>Country Wise Students</p>\n					</div>\n					<div class=\"clearfix\"> </div>\n				</div>\n				<div class=\"col-md-4 banner-bottom-gid\">\n					<div class=\"col-xs-3 banner-bottom-gdl-left\">\n						<i class=\"glyphicon glyphicon-eye-open\" aria-hidden=\"true\"></i>\n					</div>\n					<div class=\"col-xs-9 banner-bottom-gdl\">\n						<p><span>100+</span> WorldWide Views</p>\n					</div>\n					<div class=\"clearfix\"> </div>\n				</div>\n				<div class=\"clearfix\"> </div>\n			</div>\n			<div class=\"get-in-grids\">\n				<div class=\"get-in-grid-left\">\n					<p>Get In Touch</p>\n				</div>\n				<div class=\"get-in-grid-right\">\n					<input type=\"text\" value=\"Enter Your Mail...\" onfocus=\"this.value = '';\" onblur=\"if (this.value == '') {this.value = 'Enter Your Mail...';}\" required=\"\">\n					<input type=\"submit\" value=\"\" >\n				</div>\n				<div class=\"clearfix\"> </div>\n			</div>\n		</div>\n	</div>\n<!-- //banner-bottom -->\n<!-- service1 -->\n	<div class=\"service1\">\n		<div class=\"container\">\n			<div class=\"wmuSlider example1\">\n			    <div class=\"wmuSliderWrapper\">\n				   <article style=\"position: absolute; width: 100%; opacity: 0;\"> \n					<div class=\"banner-wrap\">\n						<div class=\"service1-info\">\n							<h3>Temporibus autem quibusdam et aut officiis debitis aut rerum</h3>\n							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In lobortis, ante interdum vehicula pretium, dui enim porta\n								lectus, non euismod tortor ante eu libero.</p>\n						</div>\n					</div>\n					</article>\n					<article style=\"position: absolute; width: 100%; opacity: 0;\"> \n						<div class=\"banner-wrap\">\n							<div class=\"service1-info\">\n								<h3>consectetur autem quibusdam et aut officiis debitis aut rerum</h3>\n								<p>Lobortis ipsum dolor sit amet, consectetur adipiscing elit. In lobortis, ante interdum vehicula pretium, dui enim porta\n								lectus, non euismod tortor ante eu libero.</p>\n							</div>\n						</div>\n					</article>\n					<article style=\"position: absolute; width: 100%; opacity: 0;\"> \n						<div class=\"banner-wrap\">\n							<div class=\"service1-info\">\n								<h3>adipiscing autem quibusdam et aut officiis debitis aut rerum</h3>\n								<p>Libero ipsum dolor sit amet, consectetur adipiscing elit. In lobortis, ante interdum vehicula pretium, dui enim porta\n								lectus, non euismod tortor ante eu libero.</p>\n							</div>\n						</div>\n					</article>\n					    <ul class=\"wmuSliderPagination\">\n							<li><a href=\"#\" class=\"\">0</a></li>\n							<li><a href=\"#\" class=\"\">1</a></li>\n							<li><a href=\"#\" class=\"wmuActive\">2</a></li>\n						</ul>\n				</div>\n					<script src=\"js/jquery.wmuSlider.js\"></script> \n					  <script>\n						$('.example1').wmuSlider();         \n					 </script> 	  \n			</div>\n		</div>\n	</div>\n<!-- //service1 -->\n\n<!-- testimonials -->\n\n	<div class=\"testimonials\">\n		<div class=\"container\">\n			<h3>Testimonials</h3>\n			<p class=\"velit\">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>\n			<div class=\"testimonial-grids\">\n				<div class=\"col-md-4 testimonial-grid\">\n					<div class=\"testimonial-grd\">\n						<p>Temporibus autem quibusdam et aut officiis debitis aut \n							rerum necessitatibus saepe eveniet ut et voluptates repudiandae \n							sint et molestiae non recusandae.<i>Micheal <span>Manager</span></i></p>\n						<div class=\"testimonial-grd-pos\">\n							<span></span>\n						</div>\n					</div>\n				</div>\n				<div class=\"col-md-4 testimonial-grid\">\n					<div class=\"testimonial-grd\">\n						<p>Temporibus autem quibusdam et aut officiis debitis aut \n							rerum necessitatibus saepe eveniet ut et voluptates repudiandae \n							sint et molestiae non recusandae.<i>Smith <span>Manager</span></i></p>\n						<div class=\"testimonial-grd-pos1\">\n							<span></span>\n						</div>\n					</div>\n				</div>\n				<div class=\"col-md-4 testimonial-grid\">\n					<div class=\"testimonial-grd\">\n						<p>Temporibus autem quibusdam et aut officiis debitis aut \n							rerum necessitatibus saepe eveniet ut et voluptates repudiandae \n							sint et molestiae non recusandae.<i>Williums <span>Manager</span></i></p>\n						<div class=\"testimonial-grd-pos2\">\n							<span></span>\n						</div>\n					</div>\n				</div>\n				<div class=\"clearfix\"> </div>\n			</div>\n		</div>\n	</div>\n<!-- //testimonials -->\n<!-- footer -->\n	<div class=\"footer\">\n		<div class=\"container\">\n			<div class=\"col-md-3 footer-grid\">\n				<h6>About us</h6>\n				<p>Suspendisse sed accumsan risus. Curabitur rhoncus, elit vel tincidunt elementum, nunc urna tristique nisi, in interdum libero magna tristique ante. adipiscing varius. Vestibulum dolor lorem.</p>\n			</div>\n			<div class=\"col-md-3 footer-grid\">\n				<h6>Information</h6>\n				<ul>\n					<li><a href=\"#\">About Us</a></li>\n					<li><a href=\"#\">Delivery Information</a></li>\n					<li><a href=\"#\">Privacy Policy</a></li>\n					<li><a href=\"#\">Terms &amp; Conditions</a></li>\n				</ul>\n			</div>\n			<div class=\"col-md-3 footer-grid\">\n				<h6>Support</h6>\n				<ul>\n					<li><a href=\"#\">Curabitur</a></li>\n					<li><a href=\"#\">Order History</a></li>\n					<li><a href=\"#\">Wish List</a></li>\n					<li><a href=\"#\">Newsletter</a></li>\n				</ul>\n			</div>\n			<div class=\"col-md-3 footer-grid\">\n				<h6>Extras</h6>\n				<ul>\n					<li><a href=\"#\">Brands</a></li>\n					<li><a href=\"#\">Gift Vouchers</a></li>\n					<li><a href=\"#\">Affiliates</a></li>\n					<li><a href=\"#\">Specials</a></li>\n				</ul>\n			</div>\n			<div class=\"clearfix\"></div>\n		</div>\n	</div>\n	<div class=\"footer-copy\">\n		<p>© 2016 Erudition. All rights reserved | Design by <a href=\"http://w3layouts.com/\"> W3layouts</a></p>\n		<ul>\n			<li><a href=\"#\" class=\"facebook\"></a></li>\n			<li><a href=\"#\" class=\"in\"></a></li>\n			<li><a href=\"#\" class=\"v\"></a></li>\n			<li><a href=\"#\" class=\"p\"></a></li>\n		</ul>\n	</div>\n<!-- //footer -->\n<!-- for bootstrap working -->\n		<script src=\"js/bootstrap.js\"> </script>\n<!-- //for bootstrap working -->\n\n<script src=\"js/threejs/three.js\"></script>\n  <script src=\"js/threejs/OrbitControls.js\"></script>\n  <script src=\"js/threejs/Mirror.js\"></script>\n  <script src=\"js/threejs/WaterShader.js\"></script>\n  <script src=\"js/threejs/OBJLoader.js\"></script>\n  <script src=\"js/threejs/Detector.js\"></script>\n  <script src=\"js/threejs/stats.min.js\"></script>\n  <script  src=\"js/threejs/dat.gui.js\"></script>\n  <script src=\"js/threejs/DDSLoader.js\"></script>\n  <script src=\"js/threejs/MTLLoader.js\"></script>\n  <script src=\"js/threejs/OBJMTLLoader.js\"></script>\n  <script src=\"js/threejs/ColladaLoader.js\"></script>\n  <script src=\"js/threejs/GeometryUtils.js\"></script>\n  <script src=\"js/threejs/keyboardState.js\"></script>\n  <script src=\"js/paper/webgl-nosimulation.js\"></script>\n\n</body>\n</html>",
+			"file": "neuralindex.html",
+			"file_size": 8561,
+			"file_write_time": 131022759640000000,
+			"settings":
+			{
+				"buffer_size": 13697,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "firstscene.js",
+			"settings":
+			{
+				"buffer_size": 5608,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "simlulation.php",
+			"settings":
+			{
+				"buffer_size": 3555,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Prototype/simlulation.php",
+			"settings":
+			{
+				"buffer_size": 3267,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"last_filter": "THRE",
+		"selected_items":
+		[
+			[
+				"THRE",
+				"Project: Refresh Folders"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Demo"
+	],
+	"file_history":
+	[
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Demo/js/paper/webgl.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/learning-threejs-master/chapter-01/firstscene.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Matlab/timeline/trainingandtestidjson.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Matlab/timeline/generatetimeline.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/vis/war/TimelineDemo1.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/js/paper/timelinetest.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/timelinesetup.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/js/paper/timelinesetupnew.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/vis/examples/timeline/basicUsage.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Matlab/generatetimelinedata.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Matlab/generatetimeline.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/js/paper/neuralnetmodeling.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/simlulation.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/js/paper/webgl.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/CSS/style.css",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/js/paper/correlationdata.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Matlab/correlation/generatecorrdata.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/js/paper/datacleaning.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/js/library/vis.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/vis/dist/vis.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/ajaxhelper/timeline.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Matlab/randomtime_vesselnew.txt",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Matlab/timelinetestdata.json",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/datacleaning.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Matlab/generatedatacleaning.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/neuralnetmodeling.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/correlation.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/js/paper/plotnnresult.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Matlab/generateneuralmodel.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Matlab/neuraljsonObj.json",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Matlab/PHPfiles/datacleaning.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Matlab/corrdata.json",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/js/paper/neuralsetup.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/demo.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/Matlab/jsonlab/README.txt",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Matlab/generatecorrdata.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Matlab/datacleaning.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Matlab/heading.json",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/ajaxhelper/datacleaning.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Temp/javatest/hello.java",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/Matlab/testdate.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/upload.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Temp/Fangdemo/webgl_prototype.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Temp/Fangdemo/webgl_prototype (1).html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Temp/Fangdemo/webgl.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/js/paper/webgl.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/feb22.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Temp/ZoomExample.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/ajaxhelper/timeline.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Temp/multichartd3.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/ajaxhelper/animation.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/ajaxhelper/trajectoryoutput.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/CSS/style.css",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/demo.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/js/paper/slider.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/ajaxhelper/nnresultplot.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/js/paper/plotnnresult.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/js/paper/hideshowdiv.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/ajaxhelper/trajectoryinput.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/trajtest.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/stemkoski.github.com/Three.js/Dashed-Lines.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/googlechart.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/js/paper/googlechart.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/Backup feb 18/js/paper/googlechart.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/ajaxhelper/googlechart.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/multidatabak.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/panel.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/ship/Trajectorytest.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/ship/trajectory.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/ajaxhelper/plotwholedata.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/ajaxhelper/trajectory.php",
+		"/Users/bikramkawan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/VesselTrajectory.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/js/Trajectory.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/ship/webgl_prototype.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/sliders/index.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/learning-threejs-master/chapter-04/09-line-material.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/sliders/assets/js/slider-default.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/ship/demo.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/js/paper/plotwholedata.js",
+		"/Users/bikramkawan/Dropbox/Public/Thesis/demo.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/tmpselect.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/js/plotwholedata.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/plotwholedata.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Unity/git/testjson.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Unity/git/datatmp.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Unity/git/plotwholedata.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/js/paper/neuralsetup.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/vis/timeinsertauto.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/js/paper/timeline.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/js/googlechart.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/neuralsetup.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/js/webgl.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/js/neuralsetup.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/js/timeline.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/ajaxtest.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Paper/test1.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/colorbox-master/example2/index.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/test1.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/colorbox-master/example2/live.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/ajaxtest.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/colorbox-master/example2/test.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/colorbox-master/example2/tmp.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/jquery-ajax-add-edit-modal-window/index1.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/jquery-ajax-add-edit-modal-window/testpop.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/jquery-ajax-add-edit-modal-window/your_page.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/CSS/style.css",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/colorbox-master/example2/colorbox.css",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/js/loadgooglechart.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/js/googlechart.js",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/fancyapps-fancyBox-18d1712/demo/index.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/Simulation V 1.0/CSS/style.css",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/vis/examples/timeline/dataHandling/loadExternalData.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/timedemo.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/vis/examples/timeline/dataHandling/timedemo.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/graphplotajax.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/CSS/vis.css",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/vis/examples/timeline/resources/data/basic.json",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/vis/timedemo.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/vis/examples/timeline/items/backgroundAreas.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/vis/examples/timeline/dataHandling/tmptime.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/vis/examples/timeline/editing/individualEditableItems.html",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/vis/examples/timeline/other/dataAttributesAll.html",
+		"/Users/bikramkawan/Dropbox/Hials/Quanser/JSON/str.json",
+		"/Users/bikramkawan/Desktop/test.json",
+		"/Users/bikramkawan/Dropbox/Hials/Operating System/final-src-osc9e/ch2/simple.c",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/timeline demo/connect.php",
+		"/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/testselectbox.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"controls",
+			"0",
+			"flexslider",
+			"trainingandtestidjson",
+			"fetchid",
+			".php",
+			"20px",
+			"document",
+			".vis-item-content",
+			"div.vis-item-content",
+			"vis\n",
+			"vis-item-content\n",
+			"newStart",
+			"items",
+			"movetonnsetup",
+			"tmpi",
+			"timedur",
+			"2013-11-04",
+			"2016-02-01",
+			"dataclea",
+			"visualization",
+			"proceed to",
+			"parse",
+			"corrxid",
+			"index_corelation",
+			"corrxid",
+			"Swa",
+			"plot",
+			"movetotimeline",
+			"timeline",
+			"view",
+			"path",
+			"spline1",
+			"clicked_id",
+			"controls1",
+			"controls",
+			"controls1.",
+			"controls1.Frequency",
+			"controls1",
+			"shipdata",
+			"defaul",
+			"axis",
+			"ship.rotatio",
+			"ship.rotation.y",
+			"slider",
+			"shipcordy",
+			"slider",
+			"axis",
+			"show plot",
+			"wholedata",
+			"plot raw",
+			".dae",
+			"id",
+			"spline",
+			"performance",
+			"xcord",
+			"lon",
+			"chart",
+			"cord",
+			".php",
+			"dd",
+			"boat",
+			"boatData",
+			"position",
+			"push",
+			"Traje",
+			"positions",
+			"position2",
+			"result",
+			"current",
+			"obj",
+			"ship.position.x",
+			"lon",
+			"ship.position",
+			"lon",
+			"chart",
+			"wwhole",
+			"timeline",
+			"speed",
+			"slider",
+			"wholedata",
+			"nnset",
+			"timeline",
+			"buttonste",
+			"button",
+			"upload",
+			"nnsetup",
+			"movetonn",
+			"select-style",
+			"butto",
+			"csv",
+			"upload",
+			"tf",
+			"#fromdate",
+			"fromdate",
+			"timeplot",
+			"slide",
+			"plotwhole",
+			"plot",
+			"timeline",
+			"timeplot",
+			"timeline",
+			"graph",
+			"display",
+			".button",
+			"upload",
+			"nnset",
+			"move",
+			"cleaning",
+			"time",
+			"timeplot",
+			"google",
+			"movedata",
+			"upload",
+			"wov",
+			"upload",
+			".php",
+			"traj",
+			"trajectory",
+			"body",
+			"boday",
+			"init",
+			"body",
+			"stats",
+			".php",
+			"ajax",
+			"html",
+			"ajax"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"01-Nov-2013",
+			"2013-11-04",
+			"corval_Y",
+			"corrindex_X",
+			"corrvalue_y",
+			"#fromdate2",
+			"fromdate2",
+			"Textures",
+			"ship",
+			"object",
+			"dae",
+			"exitsgateways",
+			"accessiblenodes",
+			"checkIfElem_exist",
+			"bot_find_clearcell",
+			"bot_direction_tocell",
+			"x_direction",
+			"y_direction",
+			"calculatedistance_btwntwoposition",
+			"closestDirty_cellposition",
+			"dirtyBoard_cellspositions",
+			"get_cell_char",
+			"check_dirtycell",
+			"CLEAR_CELL",
+			"CLEAN",
+			"DIRTY",
+			"Board_cellname",
+			"Board_blockname",
+			"Position_Cordinates",
+			"Direction",
+			"get_boardlayout",
+			"get_position_cordinates",
+			"boardinput",
+			"position",
+			"botmove_step",
+			"tobot_posy",
+			"tobot_posx",
+			"prince_pos",
+			"bot_pos",
+			"prince_ypos",
+			"prince_xpos",
+			"bot_ypos",
+			"bot_xpos",
+			"directionbetween_bot_towardsprince",
+			"find_botandprincess_position",
+			"find_bot_and_princess_position",
+			"Position_Cordinates",
+			"field_matrix",
+			"bot_toprincess_direction",
+			"bottoprincessdirection",
+			"y_cordinate",
+			"x_cordinate",
+			"arena",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/bikramkawan/Dropbox/Hials/Mamp/learning-threejs-master/chapter-01/02-first-scene.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 499,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								155,
+								216
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "neuralindex.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13697,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 66.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "firstscene.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5608,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "simlulation.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3555,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 890.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Prototype/simlulation.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3267,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2383,
+								3134
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1356.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "/Users/bikramkawan/Dropbox/Hials/Mamp/Thesis/PaperVer1/Paper Version 1.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 266.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

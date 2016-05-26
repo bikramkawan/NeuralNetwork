@@ -1,0 +1,186 @@
+<!--
+Author URL: http://bikramkawan.com.np
+Email : bikramkawan@gmail.com
+Version: 18.03.2016
+-->
+<!DOCTYPE html>
+<html>
+<head>
+<title>Neural Network Prototype for time series Modeling</title>
+<!-- for-mobile-apps -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Erudition Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+		function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- //for-mobile-apps -->
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+<!-- js -->
+<script src="js/jquery-1.11.1.min.js"></script>
+<!-- <script src="firstscene.js"></script> -->
+<!-- //js -->
+
+
+<link href='//fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,900,800' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Audiowide' rel='stylesheet' type='text/css'>
+</head>
+	
+<body>
+<!-- header -->
+	<div class="header">
+		<div class="container">
+			<div class="header-top">
+				<div class="header-top-left">
+					<p>Neural Network Prototype</p>
+				</div>
+				<div class="header-top-left1">
+					 <!-- start search-->
+						<div class="search-box">
+						
+						</div>
+						<!-- search-scripts -->
+					
+						<!-- //search-scripts -->
+				</div>
+				<div class="header-top-right">
+					
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+		</div>
+	</div>
+	<div class="header-logo">
+		<div class="container">
+			<div class="header-nav">
+				<nav class="navbar navbar-default">
+					<!-- Brand and toggle get grouped for better mobile display -->
+					<div class="navbar-header">
+					  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					  </button>
+						<div class="logo">
+							<a class="navbar-brand" href="index.html">NTNU</a>
+						</div>
+					</div>
+
+					<!-- Collect the nav links, forms, and other content for toggling -->
+					<div class="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
+					 <ul class="nav navbar-nav">
+						<li class="hvr-bounce-to-bottom active"><a href="index.html">Home</a></li>
+						<li class="hvr-bounce-to-bottom"><a href="datacleaning.html">Data Cleaning</a></li>
+						<li class="hvr-bounce-to-bottom"><a href="correlation.html">Correlation</a></li>
+						<li class="hvr-bounce-to-bottom"><a href="timelineview.html">Time Line View</a></li>
+						<li class="hvr-bounce-to-bottom"><a href="neuralnetmodel.html">Neural Network Modeling</a></li>
+						<li class="hvr-bounce-to-bottom"><a href="simulationvessel.html">Vessel Simulation</a></li>
+					  </ul>
+					</div><!-- /.navbar-collapse -->
+				</nav>
+			</div>
+		</div>
+	</div>
+<!-- //header -->
+
+ <div id="Stats-output"> </div>
+
+<!-- banner -->
+<!-- 	<div class="banner">
+		
+		
+	</div> -->
+<!-- //banner -->
+<!-- banner-bottom -->
+	<div class="banner-bottom">
+		<div class="container">
+			<div id="webgloutput">
+			</div>
+			<h3>Welcome To Our Neural Network Prototype</h3>
+			<p class="velit">This application will illustrate how we can implemenet Neural Network for the prediction of ship behaviour.</p>
+			<div class="banner-bottom-grids">
+				<div class="col-md-4 banner-bottom-grid">
+					<h4>About Our Application</h4>
+					<p>This is demonstration for the Paper entitled "Analysis and Modeling of Sensor Data for Ship Motion Prediction"</p>
+					<div class="more">
+						<a href="#" class="hvr-bounce-to-bottom">Read More</a>
+					</div>
+				</div>
+				<div class="col-md-4 banner-bottom-grid">
+					<h4>Our Frame Work</h4>
+					<p>Click Image to see large Size </a><a href="img/framework.png"><img src="img/framework.png" style="width: 141px; height: 141px;"><br></p>
+				</div>
+				<div class="col-md-4 banner-bottom-grid">
+					<h4>Follow the step by Step Procedure.</h4>
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+			
+
+			<div><p> To start using the application. Please upload the file. Currently we support .txt and .CSV only.
+				<div class="get-in-grids">
+					<div class="get-in-grid-left">
+						<p>Upload Your Files Here</p>
+					</div>
+					<div class="get-in-grid-right">
+					<?php include('fileupload.php');?>
+						
+					</div>
+					<div class="clearfix"> </div>
+
+				</div>
+
+
+			</div>	
+
+				<div class="col-md-6" style="float: right;">
+					<ul class="pagination pagination-lg">
+											
+						<li><a href="datacleaning.html"><i class="fa fa-angle-right">Next</i></a></li>
+					<li><a href="datacleaning.html"><i class="fa fa-angle-right">»</i></a></li>
+					</ul>
+			
+				</div>
+
+			
+			
+		</div>
+
+	</div>
+<!-- //banner-bottom -->
+
+
+<!-- footer -->
+
+	<div class="footer-copy">
+		<p>© 2016 Edition. | Application Made and Design by <a href="http://bikramkawan.com.np"> Bikram Kawan </a></p>
+		<br>
+			<p> <a href="http://blog.hials.no/bigdata/"> Product of Big Data Lab </a>, NTNU, Aalesund</p>
+		
+	</div>
+
+<!-- //footer -->
+<!-- for bootstrap working -->
+		<script src="js/bootstrap.js"> </script>
+<!-- //for bootstrap working -->
+
+<script src="js/threejs/three.js"></script>
+  <script src="js/threejs/OrbitControls.js"></script>
+  <script src="js/threejs/Mirror.js"></script>
+  <script src="js/threejs/WaterShader.js"></script>
+  <script src="js/threejs/OBJLoader.js"></script>
+  <script src="js/threejs/Detector.js"></script>
+  <script src="js/threejs/stats.min.js"></script>
+  <script  src="js/threejs/dat.gui.js"></script>
+  <script src="js/threejs/DDSLoader.js"></script>
+  <script src="js/threejs/MTLLoader.js"></script>
+  <script src="js/threejs/OBJMTLLoader.js"></script>
+  <script src="js/threejs/ColladaLoader.js"></script>
+  <script src="js/threejs/GeometryUtils.js"></script>
+  <script src="js/threejs/KeyboardState.js"></script>
+   <script src="js/paper/webgl-nosimulation.js"></script>
+
+</body>
+</html>
