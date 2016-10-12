@@ -1,6 +1,6 @@
 # NeuralNetwork
 
-Acess Demo from here :  http://bikramkawan.github.io/NeuralNetwork/
+Acess Demo from here :  http://bit.ly/1U9DtcH
 <br>
 This is the part for the fullfilment of my Master Thesis - "Neural Network Time Series Prediction of Ship Motion" 
 <br>The App is not fully working in github.Matlab should be run in background. Inorder to run in localhost, download all repo. Rename index.html to index.php. Your computer should be loaded with Matlab. I am using Mac version of Matlab. So if your machine is windows the matlab calling from php should be modified i.e. inside "Matlab" Folder.
