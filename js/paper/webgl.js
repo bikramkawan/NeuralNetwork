@@ -86,7 +86,7 @@
 				renderer = new THREE.WebGLRenderer();
 				
 				renderer.setPixelRatio( window.devicePixelRatio );
-				renderer.setSize( screen.width/1.12, screen.height/1.2);
+				renderer.setSize(container.clientWidth, screen.height/1.2);
 				//container.appendChild( renderer.domElement );
 				container.appendChild( renderer.domElement );
 				scene = new THREE.Scene();
